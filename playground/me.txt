@@ -1,5 +1,0 @@
-{{#user}}
-My name is Souvik.
-Here are my skills : html, css ,js , react.js .
-My email id is souvikdutta491@gmail.com.
-{{/user}}
